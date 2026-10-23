@@ -7,16 +7,16 @@ Báo cáo và mã nguồn bài thực hành Buổi 06 - Học phần Cơ sở d�
 
 ## Nội dung thực hiện
 
-### Bài 1 & Bài 3: Quản lý Cơ sở Dữ liệu (Excel & Access)
+### Bài 1, Bài 2 & Bài 3: Quản lý Cơ sở Dữ liệu (Excel & Access)
 - **Tạo bảng dữ liệu Excel**: Thiết lập 3 Worksheets chứa thông tin sinh viên, môn học và kết quả học tập.
 - **Chuyển đổi dữ liệu**: Import dữ liệu từ Excel sang **Microsoft Access** (`.accdb`).
 - **Truy vấn dữ liệu (Queries)**:
-  1. Liệt kê sinh viên thuộc lớp `D11296A1` và `D11296A2`.
-  2. Liệt kê sinh viên học môn `CT178` (Nền tảng CNTT).
-  3. Liệt kê sinh viên lớp `CP1296C1` học môn `CT178`.
-  4. Liệt kê sinh viên lớp `CP1296C1` học môn `CT178` đạt điểm `C`.
+  a. Liệt kê sinh viên thuộc lớp `D11296A1` và `D11296A2`.
+  b. Liệt kê sinh viên học môn `CT178` (Nền tảng CNTT).
+  c. Liệt kê sinh viên lớp `CP1296C1` học môn `CT178`.
+  d. Liệt kê sinh viên lớp `CP1296C1` học môn `CT178` đạt điểm `C`.
 
-### Bài 2 & Bài 4: Tìm kiếm & Đánh giá Nguồn tin (CRAAP Test)
+### Bài 4: Tìm kiếm & Đánh giá Nguồn tin (CRAAP Test)
 - **Câu hỏi nghiên cứu**: *"Ưu điểm và nhược điểm của CSDL SQL so với NoSQL trong việc xử lý dữ liệu lớn?"*
 - **Chiến lược tìm kiếm**: Sử dụng từ khóa nâng cao (`filetype:pdf`, `site:`, `OR`, `AND`) trên Google, Google Scholar và tài liệu chính thức (Oracle, MongoDB).
 - **Đánh giá chất lượng bằng CRAAP Test**:
