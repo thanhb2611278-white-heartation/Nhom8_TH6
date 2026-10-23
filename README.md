@@ -35,9 +35,9 @@ Tệp tin được đặt tên theo đúng quy định yêu cầu:
 
 | STT | Tệp tin | Định dạng | Mô tả |
 | :---: | :--- | :---: | :--- |
-| 1 | `BUOI06_MSSV_TranDuyThai.xlsx` | `.xlsx` | Bảng dữ liệu Excel 3 worksheets.
-| 2 | `BUOI06_MSSV_NguyenTranPhuocTan.accdb` | `.accdb` | Cơ sở dữ liệu Access & các câu truy vấn.
-| 3 | `BUOI06_MSSV_NguyenVanAnhTai.docx` | `.docx` | Báo cáo đánh giá CRAAP, so sánh SQL/NoSQL (≥ 2 trang).
+| 1 | `BUOI06_B2611277_TranDuyThai.xlsx` | `.xlsx` | Bảng dữ liệu Excel 3 worksheets.
+| 2 | `BUOI06_B2611276_NguyenTranPhuocTan.accdb` | `.accdb` | Cơ sở dữ liệu Access & các câu truy vấn.
+| 3 | `BUOI06_B2611275_NguyenVanAnhTai.docx` | `.docx` | Báo cáo đánh giá CRAAP, so sánh SQL/NoSQL (≥ 2 trang).
 
 ---
 
